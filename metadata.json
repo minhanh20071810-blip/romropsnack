@@ -1,0 +1,6 @@
+{
+  "name": "Rôm Rốp Snack - Cắn Một Miếng, Giòn Một Tiếng!",
+  "description": "Website thương hiệu đồ ăn vặt Rôm Rốp Snack với thế giới bánh bim bim giòn tan độc bản, ưu đãi độc quyền, tuyển dụng và trợ lý Rôm Bot AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
